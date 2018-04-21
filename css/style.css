@@ -1,0 +1,59 @@
+
+header{
+    height: 20%;
+    background-color: #0080FF;
+    padding-left: 20%;
+
+}
+
+
+#gii, #hdi, #gdp{
+    margin-bottom: -3%;
+    margin-top: 3%;
+}
+
+.main-text{
+    width: 60%;
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 24px;
+}
+
+.map{
+    /*height: 90%;*/
+    display: inline-block;
+}
+
+.inf{
+    /*height: 90%;*/
+    width: 38%;
+    margin: 0;
+    display: inline-block;
+    vertical-align:top;
+    padding-left: 2%;
+    box-sizing: border-box;
+}
+
+.country {
+    width: 60%;
+    text-align: center;
+    font-size: 35px;
+    color: rgba(8, 81, 156, 0.95);
+    display: inline-block;
+    padding-bottom: 20px;
+    padding-left: 50px;
+    margin: 0;
+    /*box-sizing: border-box;*/
+}
+
+.sources {
+    margin-left: 2%;
+    margin-bottom: 2%;
+}
+
+
+path:hover {
+    opacity: 0.4;
+    cursor:pointer;
+}
